@@ -8,6 +8,15 @@ usmsg (ultrasound message) - hide messages in songs!
 - numpy
 - scipy
 
+## "Installing"
+
+Be sure to have ffmpeg installed and in $PATH.
+
+```bash
+git clone https://github.com/imborge/usmsg.git
+pip -r requirements.txt
+```
+
 ## Usage
 
 ### Encoding
