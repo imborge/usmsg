@@ -14,6 +14,7 @@ Be sure to have ffmpeg installed and in $PATH.
 
 ```bash
 git clone https://github.com/imborge/usmsg.git
+cd umsg
 pip -r requirements.txt
 ```
 
